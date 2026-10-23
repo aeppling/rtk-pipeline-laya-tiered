@@ -177,6 +177,6 @@ when = { command_matches = "\\bsed -n *'?[0-9]+,[0-9]+p|\\b(grep|egrep|rg)\\b[^|
 use  = ["ansi"]
 ```
 
-Measured by [rtk](https://github.com/rtk-ai/rtk) v0.49.0 on 2026-10-23.
+Measured by [rtk](https://github.com/rtk-ai/rtk) v1.0.1 on 2026-10-23.
 
 Install this pipeline: `rtk pipeline add <url-of-this-card>`
